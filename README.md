@@ -1,4 +1,4 @@
-# Olá, eu sou a Vitória Lomba! 👋
+# Olá, eu sou a Vitória França! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonada por Desenvolvimento Web  

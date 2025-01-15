@@ -11,4 +11,5 @@
 
 ## 📊 GitHub Stats
 ![Vitória Lomba's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorialomba&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorialomba&layout=compact&theme=dark)](https://github.com/vitorialomba)
+
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorialomba&layout=compact&theme=dark)](https://github.com/vitorialomba)
